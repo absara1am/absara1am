@@ -4,6 +4,10 @@
 
 I'm an indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absara1am&label=Profile%20views&color=0e75b6&style=flat" alt="absara1am" /> </p>
+
+<p align="left"> <a href="https://twitter.com/absara1am" target="blank"><img src="https://img.shields.io/twitter/follow/absara1am?logo=twitter&style=for-the-badge" alt="absara1am"  </p>
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
