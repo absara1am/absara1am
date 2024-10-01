@@ -6,7 +6,8 @@ I'm an indie full-stack developer building my version of the digital world one s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absara1am&label=Profile%20views&color=0e75b6&style=flat" alt="absara1am" /> </p>
 
-<p align="left"> <a href="https://twitter.com/absara1am" target="blank"><img src="https://img.shields.io/twitter/follow/absara1am?logo=twitter&style=for-the-badge" alt="absara1am"  </p>
+<p align="left"><a href="https://linkedin.com/in/absara1am" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-absara1am-blue?logo=linkedin&style=for-the-badge" alt="absara1am LinkedIn"></a> </p>
+
   
 ---
 
