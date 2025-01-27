@@ -20,7 +20,6 @@ I'm an indie full-stack developer building my version of the digital world one s
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Machine Learning" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/machine-learning.png" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-machine-learning-data-science-soft-fill-soft-fill-juicy-fish.png" />
